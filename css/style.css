@@ -264,7 +264,7 @@ button {
     transition: 0.5s;
 }
 
-.overlay .closebtn :hover{
+.overlay .closebtn {
     position: absolute;
     top: 20px;
     right: 45px;
