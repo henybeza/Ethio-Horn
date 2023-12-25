@@ -264,11 +264,11 @@ button {
     transition: 0.5s;
 }
 
-.overlay .closebtn {
+.overlay .closebtn :hover{
     position: absolute;
     top: 20px;
     right: 45px;
-    font-size: 60px;
+    font-size: 60px; 
 }
 .overlay a {
     padding: 0px;
