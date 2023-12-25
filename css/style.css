@@ -251,7 +251,7 @@ button {
     float: left;
 }
 
-.overlay {
+.overlay :hover{
     height: 100%;
     width: 0;
     position: fixed;
